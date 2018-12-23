@@ -1,5 +1,5 @@
 # docker-wordpress-dev
-Containerized Wordpress Development environment
+**Containerized Wordpress Development environment**
 
 This docker-compose file creates a local development environment to Wordpress projects, including an phpMyAdmin installation to help you manage your MariaDB/MySQL database. You can access the login screen on 8080 port. (http://localhost:8080). User and password for root user is “root”.
 
